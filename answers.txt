@@ -5,3 +5,9 @@ Git rebase is used when you want to update a branch with any later changes that 
 Git merge is used when you make changes on your local repo to a branch and changes were made to the remote 
 repo which causes you to fetch those changes and merge with your changes before pushing the finalized merged 
 changes (combination between the two) back to the remote.
+
+What is a remote repository?
+
+A remote repository is a repository that is hosted on the internet somewhere such as GitHub. Users with proper
+permissions can pull changes from this repository, add or edit code, then commit and push the changes back to
+the remote repository. 
