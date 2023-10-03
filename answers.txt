@@ -1,0 +1,7 @@
+What is the difference between a merge and a rebase?
+
+Git rebase is used when you want to update a branch with any later changes that happened after you branched. 
+
+Git merge is used when you make changes on your local repo to a branch and changes were made to the remote 
+repo which causes you to fetch those changes and merge with your changes before pushing the finalized merged 
+changes (combination between the two) back to the remote.
